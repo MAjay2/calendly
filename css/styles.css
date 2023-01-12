@@ -1,0 +1,80 @@
+.size {
+  width: 100px;
+  height: 50px;
+}
+
+.light {
+  background-color: #f8f8f8;
+}
+
+.posi {
+  color: white;
+  width: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+  position: absolute;
+  margin-left: -20px;
+  border-radius: 50%;
+  margin-top: 0px;
+  text-align: left;
+}
+
+.yooo {
+  color: rgb(11, 53, 88);
+}
+
+.design {
+  width: 50px;
+  height: 50px;
+  padding: 70px;
+  position: absolute;
+  top: 1503px;
+  right: 20px;
+  padding-top: 1px;
+  padding-left: 100px;
+  margin-top: 70px;
+  margin-left: 80px;
+  margin-right: -19px;
+  border-top-right-radius: 50%;
+  padding-right: 200px;
+}
+
+.curves {
+  width: 50px;
+  height: 50px;
+  padding: 70px;
+  margin-top: -150px;
+  margin-left: 400px;
+  border-bottom-left-radius: 50%;
+  padding-right: 150px;
+  border-top-right-radius: 50%;
+  position: absolute;
+  top: 1520px;
+  padding-bottom: 134px;
+  padding-right: 200px;
+}
+
+.blue {
+  background-color: rgb(11, 53, 88);
+}
+
+li {
+  margin-bottom: 20px;
+  list-style: none;
+}
+
+select {
+  width: 175px;
+}
+
+.card-shadow {
+  box-shadow: lightgrey 1px 1px 10px;
+  border: none;
+}
+
+.touch {
+  position: absolute;
+}
+
+.part {
+}
